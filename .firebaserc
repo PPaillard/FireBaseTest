@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-test-2280d": {
+      "hosting": {
+        "fireBaseTest": [
+          "fir-test-2280d"
+        ]
+      }
+    }
+  }
+}
